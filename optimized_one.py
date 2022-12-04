@@ -3,8 +3,7 @@ import time
 alphabet = [chr(i) for i in range(ord('a'), ord('z')+1)] + [chr(i)
                                                             for i in range(ord('A'), ord('Z')+1)]
 alphabet = alphabet + [" "]
-# desired_text = 'Hello World'
-desired_text = 'Hey My name is sajad'
+desired_text = 'Hello World' # or any other text :)
 main_text = ''
 
 
